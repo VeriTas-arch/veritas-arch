@@ -1,6 +1,7 @@
 ### Hola Amigo.🎵
 
 - 🔭 Currently working on machinical inteligence and bio-inspired intelligence.
+- ⚡ Research interest includes computational neuroscience, neurobotics and generative systems.
 
 <!--
 **VeriTas-arch/veritas-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
