@@ -1,6 +1,6 @@
 ### Hola Amigo.🎵
 
-- 🔭 Currently working on machinical inteligence and bio-inspired intelligence.
+- 🔭 Currently working on mechanical intelligence and bio-inspired intelligence.
 - ⚡ Research interest includes computational neuroscience, neurobotics and generative systems.
 
 <!--
