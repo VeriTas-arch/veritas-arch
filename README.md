@@ -1,7 +1,7 @@
-### Hola Amigo.🎵
+### Hola Amigo. 🎵
 
-- 🔭 Currently working on mechanical intelligence and bio-inspired intelligence.
-- ⚡ Research interest includes computational neuroscience, neurobotics and generative systems.
+- 🔭 Current Focus: Advancing mechanical metamaterials and bio-inspired intelligence.
+- ⚡ Research Interests: Computational neuroscience, neurobotics, and generative systems.
 
 <!--
 **VeriTas-arch/veritas-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
